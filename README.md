@@ -8,3 +8,4 @@
 3. [Dribbble](https://dribbble.com) -  Where designers gain inspiration, feedback and is your best resource to discover and connect with designers worldwide.
 4. [Coolors](https://coolors.co) - Generate perfect color combinations for your designs.
 5. [Metatags](https://metatags.io) - Edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
+6. [Css filters](https://www.cssfilters.co) - Visual playground for generating CSS for custom and Instagram like photo filters.
