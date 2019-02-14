@@ -8,3 +8,5 @@
 2. [Blobmaker](https://www.blobmaker.app) - make svg blobs from an intuitive UI and  download the source code. 
 
 3. [Coolors](https://coolors.co) - a tool to generate and select color palettes.
+
+4. [Logojoy](https://logojoy,com) - an AI based web app that designs a logo for you based on your preferences.
