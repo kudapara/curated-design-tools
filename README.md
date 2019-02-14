@@ -12,3 +12,5 @@
 4. [Logojoy](https://logojoy,com) - an AI based web app that designs a logo for you based on your preferences.
 
 5. [metetags.io](https://metatags.io) - a simple tool that helps you generate Opengraph tags, twitter card tags and structured data for your site. 
+
+6. [CSSfilters](https://www.cssfilters.co) - a tool that helps you create filters for your images and then generates the CSS code to achieve the same effect. 
