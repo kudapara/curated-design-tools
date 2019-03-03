@@ -26,6 +26,12 @@
 14. [Mobbin Design](https://mobbin.design) - Check out the hand-picked collection of latest mobile design patterns from apps that reflect the best in design.
 15. [Evernote Design 🔥](https://evernote.design) - All in One Bookmark Links for Designer
 16. [Page Flows](https://pageflows.com) - User flow videos & screenshots to inspire you when you're stuck.
+17. [Designspiration](https://www.designspiration.net/) - Cool designs and hd pictures
+
+### Free HD pictures :smiley:
+
+18. [Unsplash](https://unsplash.com/) free hd pictures no watermarks
+19. [Pixabay](https://pixabay.com/) free hd pictures no watermarks no ads need to sign in to download high resolution pictures
 
 
 ### Illustrations
