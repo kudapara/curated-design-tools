@@ -36,5 +36,9 @@
 
 ### Illustrations
 
-17. [Absurd Design](https://absurd.design) - Download Surrealist illustrations with sense. Use free for your landing pages and apps. These illustrations combines the absurdity and a deep sense of childishness and naivety.
-18. [Undraw](http://undraw.co/) - Open-source illustrations for every project you can imagine and create.
+20. [Absurd Design](https://absurd.design) - Download Surrealist illustrations with sense. Use free for your landing pages and apps. These illustrations combines the absurdity and a deep sense of childishness and naivety.
+21. [Undraw](http://undraw.co/) - Open-source illustrations for every project you can imagine and create.
+
+### Emojis
+
+22. [Emojipedia 😊](https://emojipedia.org/) If you need some emojis to add to your UI. You can search them from here and copy paste them that easy 👍🏽 
