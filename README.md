@@ -3,46 +3,47 @@
 
 ## Design tools
 
-1. [Grabient](https://grabient.com) - Beautiful and simple UI for generating web gradients.
-2. [Blob Maker](https://www.blobmaker.app) - Make organic svg shapes for your next design.
-3. [Coolors](https://coolors.co) - Generate perfect color combinations for your designs.
-4. [Metatags](https://metatags.io) - Edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
-5. [Css filters](https://www.cssfilters.co) - Visual playground for generating CSS for custom and Instagram like photo filters.
+- [Grabient](https://grabient.com) - Beautiful and simple UI for generating web gradients.
+- [Blob Maker](https://www.blobmaker.app) - Make organic svg shapes for your next design.
+- [Coolors](https://coolors.co) - Generate perfect color combinations for your designs.
+- [Metatags](https://metatags.io) - Edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
+- [Css filters](https://www.cssfilters.co) - Visual playground for generating CSS for custom and Instagram like photo filters.
 
 
 ### Patterns & backgrounds
-6. [Cool Backgrounds](https://coolbackgrounds.io) - Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites, or as desktop and phone wallpapers.
-7. [Toptal subtle patterns](https://www.toptal.com/designers/subtlepatterns) - Free high quality patterns for your next web project.
-8. [Trianglify.io](https://trianglify.io) - A tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
-9. [Flaticon Patterns](https://pattern.flaticon.com) - Mesh up flaticon's icons to form colorful background patterns.
-10. [Heropatters](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your digital projects.
-11. [Css Gradient](https://cssgradient.io) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
-12. [Patterninja](https://patterninja.com) - Combine images to create patterns that can be downloaded in high resolution and used for printing and the web.
+
+- [Cool Backgrounds](https://coolbackgrounds.io) - Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites, or as desktop and phone wallpapers.
+- [Toptal subtle patterns](https://www.toptal.com/designers/subtlepatterns) - Free high quality patterns for your next web project.
+- [Trianglify.io](https://trianglify.io) - A tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
+- [Flaticon Patterns](https://pattern.flaticon.com) - Mesh up flaticon's icons to form colorful background patterns.
+- [Heropatters](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your digital projects.
+- [Css Gradient](https://cssgradient.io) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
+- [Patterninja](https://patterninja.com) - Combine images to create patterns that can be downloaded in high resolution and used for printing and the web.
 
 
 ### Design Inspiration
 
-13. [Dribbble](https://dribbble.com) - Where designers gain inspiration, feedback and is your best resource to discover and connect with designers worldwide.
-14. [Mobbin Design](https://mobbin.design) - Check out the hand-picked collection of latest mobile design patterns from apps that reflect the best in design.
-15. [Evernote Design 🔥](https://evernote.design) - All in One Bookmark Links for Designer
-16. [Page Flows](https://pageflows.com) - User flow videos & screenshots to inspire you when you're stuck.
-17. [Designspiration](https://www.designspiration.net/) - Cool designs and hd pictures
+- [Dribbble](https://dribbble.com) - Where designers gain inspiration, feedback and is your best resource to discover and connect with designers worldwide.
+- [Mobbin Design](https://mobbin.design) - Check out the hand-picked collection of latest mobile design patterns from apps that reflect the best in design.
+- [Evernote Design 🔥](https://evernote.design) - All in One Bookmark Links for Designer
+- [Page Flows](https://pageflows.com) - User flow videos & screenshots to inspire you when you're stuck.
+- [Designspiration](https://www.designspiration.net/) - Cool designs and hd pictures
 
 
 ### Illustrations
 
-20. [Absurd Design](https://absurd.design) - Download Surrealist illustrations with sense. Use free for your landing pages and apps. These illustrations combines the absurdity and a deep sense of childishness and naivety.
-21. [Undraw](http://undraw.co/) - Open-source illustrations for every project you can imagine and create.
+- [Absurd Design](https://absurd.design) - Download Surrealist illustrations with sense. Use free for your landing pages and apps. These illustrations combines the absurdity and a deep sense of childishness and naivety.
+- [Undraw](http://undraw.co/) - Open-source illustrations for every project you can imagine and create.
 
 
 ### Emojis
 
-22. [Emojipedia 😊](https://emojipedia.org/) If you need some emojis to add to your UI. You can search them from here and copy paste them that easy 👍🏽
+- [Emojipedia 😊](https://emojipedia.org/) If you need some emojis to add to your UI. You can search them from here and copy paste them that easy 👍🏽
 
 
 ### Svg Icons
 
-23. [Zondicons](https://www.zondicons.com) - A set of free premium SVG icons for you to use on your digital products.
+- [Zondicons](https://www.zondicons.com) - A set of free premium SVG icons for you to use on your digital products.
 
 
 
