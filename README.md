@@ -37,5 +37,12 @@
 
 ### Emojis
 
-22. [Emojipedia 😊](https://emojipedia.org/) If you need some emojis to add to your UI. You can search them from here and copy paste them that easy 👍🏽 
+22. [Emojipedia 😊](https://emojipedia.org/) If you need some emojis to add to your UI. You can search them from here and copy paste them that easy 👍🏽
+
+
+### Svg Icons
+
+23. [Zondicons](https://www.zondicons.com) - A set of free premium SVG icons for you to use on your digital products.
+
+
 
