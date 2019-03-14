@@ -29,6 +29,7 @@
 - [Page Flows](https://pageflows.com) - User flow videos & screenshots to inspire you when you're stuck.
 - [Designspiration](https://www.designspiration.net/) - Cool designs and hd pictures
 - [Codepen](https://codepen.io/pens) - CodePen is a social development environment for front-end designers and developers.
+- [Landing Folio](https://www.landingfolio.com) - Landingfolio features the best landing page designs on the web, updated weekly.
 
 ### Illustrations
 
