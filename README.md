@@ -51,5 +51,9 @@
 - [Material icons](https://material.io/tools/icons) - Material icons are delightful, beautifully crafted symbols for common actions and items
 
 
+### Stock Video
+
+- [Mixkit](https://mixkit.co) - HD videos for you to use, completely free of charge.
+
 
 
