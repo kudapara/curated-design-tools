@@ -37,6 +37,7 @@
 
 - [Absurd Design](https://absurd.design) - Download Surrealist illustrations with sense. Use free for your landing pages and apps. These illustrations combines the absurdity and a deep sense of childishness and naivety.
 - [Undraw](http://undraw.co/) - Open-source illustrations for every project you can imagine and create.
+- [Humaaans](https://www.humaaans.com) - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
 
 
 ### Emojis
