@@ -31,6 +31,7 @@
 - [Codepen](https://codepen.io/pens) - CodePen is a social development environment for front-end designers and developers.
 - [Landing Folio](https://www.landingfolio.com) - Landingfolio features the best landing page designs on the web, updated weekly.
 - [Behance](https://behance.net) - Showcase and discover the latest work from top online portfolios by creative professionals across industries
+[Lapa Ninja](https://www.lapa.ninja) - The best landing page design inspiration from around the web. The contents are selected from the best designs, and daily updated.
 
 
 ### Illustrations
