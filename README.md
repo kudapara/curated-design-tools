@@ -59,4 +59,5 @@
 - [Mixkit](https://mixkit.co) - HD videos for you to use, completely free of charge.
 
 
-
+### Stock Photos
+- [Pexels](https://www.pexels.com/) - Collections of High Definiton stock images an some videos shared by talented creators
