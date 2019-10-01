@@ -61,6 +61,7 @@
 ### Stock Video
 
 - [Mixkit](https://mixkit.co) - HD videos for you to use, completely free of charge.
+- [Pexel Videos](https://www.pexels.com/videos) - The best free stock videos shared by the Pexels community.
 
 
 ### Stock Photos
