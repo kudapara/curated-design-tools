@@ -54,6 +54,9 @@
 - [Icomoon](https://icomoon.io) - WebApp that lets you create your own package of icons from different sources there are both paid and free sources
 - [Material icons](https://material.io/tools/icons) - Material icons are delightful, beautifully crafted symbols for common actions and items
 
+### Font Icons
+
+- [Font Awesome](https://fontawesome.com) -  Get vector icons and social logos on your website with Font Awesome
 
 ### Stock Video
 
