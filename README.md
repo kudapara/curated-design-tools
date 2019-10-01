@@ -66,3 +66,4 @@
 
 ### Stock Photos
 - [Pexels](https://www.pexels.com/) - Collections of High Definiton stock images an some videos shared by talented creators
+- [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock images and videos shared by our talented community
