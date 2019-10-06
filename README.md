@@ -1,7 +1,12 @@
 # curated-design-tools
 > A curated list of the tools we use to enhance our design wokflow.
 
-## Design tools
+### Design Applications
+
+- [Adobe XD](https://www.adobe.com/products/xd.html) - Wireframe, design, prototype, present, and share amazing experiences for web, mobile, voice, and more.
+
+
+### Design tools
 
 - [Grabient](https://grabient.com) - Beautiful and simple UI for generating web gradients.
 - [Blob Maker](https://www.blobmaker.app) - Make organic svg shapes for your next design.
