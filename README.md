@@ -19,6 +19,7 @@
 - [Heropatters](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your digital projects.
 - [Css Gradient](https://cssgradient.io) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
 - [Patterninja](https://patterninja.com) - Combine images to create patterns that can be downloaded in high resolution and used for printing and the web.
+- [uiGradient](https://uigradients.com) - This website has a bunch of gradient suggestions. You can get the CSS code or get inspiration of various colour combinations for gradients.
 
 
 ### Design Inspiration
