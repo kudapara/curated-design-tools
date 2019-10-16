@@ -4,6 +4,7 @@
 ### Design Applications
 
 - [Adobe XD](https://www.adobe.com/products/xd.html) - Wireframe, design, prototype, present, and share amazing experiences for web, mobile, voice, and more.
+- [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish.
 
 
 ### Design tools
