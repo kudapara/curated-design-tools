@@ -78,3 +78,4 @@
 
 ### Design Systems
 - [Material Design](https://material.io/) -  A design language that Google developed in 2014
+- [Fluent Design System](https://www.microsoft.com/design/fluent/) -  A design system developed in 2017 by Microsoft as a revamp of Microsoft Design Language 2.
