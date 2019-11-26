@@ -50,7 +50,9 @@
 - [Humaaans](https://www.humaaans.com) - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
 - [IRA Design](https://www.creative-tim.com/ira-design) - Build your own amazing illustrations
 - [DrawKit](https://www.drawkit.io) - MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!
-- [Mixkit](https://mixkit.co) - Mixkit Art is a curated gallery of beautiful art and illustration, made by some of the world’s most talented creators, it’s all completely free to use commercially.
+- [Mixkit](https://mixkit.co/art) - Mixkit Art is a curated gallery of beautiful art and illustration, made by some of the world’s most talented creators, it’s all completely free to use commercially.
+
+
 ### Emojis
 
 - [Emojipedia 😊](https://emojipedia.org/) If you need some emojis to add to your UI. You can search them from here and copy paste them that easy 👍🏽
@@ -68,7 +70,7 @@
 
 ### Stock Video
 
-- [Mixkit](https://mixkit.co) - HD videos for you to use, completely free of charge.
+- [Mixkit](https://mixkit.co/videos) - HD videos for you to use, completely free of charge.
 - [Pexel Videos](https://www.pexels.com/videos) - The best free stock videos shared by the Pexels community.
 
 
