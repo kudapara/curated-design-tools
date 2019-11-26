@@ -76,6 +76,7 @@
 - [Pexels](https://www.pexels.com/) - Collections of High Definiton stock images an some videos shared by talented creators
 - [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock images and videos shared by our talented community
 - [Unsplash](https://unsplash.com) - Beautiful Free Images & Pictures; royalty free - oh, you just have to credit the creator
+- [Burst by Shopify](https://burst.shopify.com/) - Browse thousands of beautiful copyright-free images. All our pictures are free to download for personal and commercial use, no attribution required.
 
 ### Design Systems
 - [Material Design](https://material.io/) -  A design language that Google developed in 2014
