@@ -50,6 +50,7 @@
 - [IRA Design](https://www.creative-tim.com/ira-design) - Build your own amazing illustrations
 - [DrawKit](https://www.drawkit.io) - MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!
 - [Mixkit](https://mixkit.co) - Mixkit Art is a curated gallery of beautiful art and illustration, made by some of the world’s most talented creators, it’s all completely free to use commercially.
+
 ### Emojis
 
 - [Emojipedia 😊](https://emojipedia.org/) If you need some emojis to add to your UI. You can search them from here and copy paste them that easy 👍🏽
@@ -60,6 +61,7 @@
 - [Zondicons](https://www.zondicons.com) - A set of free premium SVG icons for you to use on your digital products.
 - [Icomoon](https://icomoon.io) - WebApp that lets you create your own package of icons from different sources there are both paid and free sources
 - [Material icons](https://material.io/tools/icons) - Material icons are delightful, beautifully crafted symbols for common actions and items
+- [Flaticon](https://www.flaticon.com/home) - A repostitory of scalable vector icons and icon packs. The site gives you the ability to search for related icons to a selected icon/asset.
 
 ### Font Icons
 
