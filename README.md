@@ -41,6 +41,7 @@
 - [Behance](https://behance.net) - Showcase and discover the latest work from top online portfolios by creative professionals across industries
 - [Lapa Ninja](https://www.lapa.ninja) - The best landing page design inspiration from around the web. The contents are selected from the best designs, and daily updated.
 - [Codrops](https://tympanus.net/codrops/) - Resource and Inspiration for creative minds, ranging from tutorials on new and experimental concepts, source, icons and tutorials.
+- [Land Book](https://land-book.com/) - Design gallery with the best and most carefully collected websites. We help creatives find inspiration & motivation to do rad stuff.
 
 
 ### Illustrations
@@ -50,7 +51,8 @@
 - [Humaaans](https://www.humaaans.com) - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
 - [IRA Design](https://www.creative-tim.com/ira-design) - Build your own amazing illustrations
 - [DrawKit](https://www.drawkit.io) - MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!
-- [Mixkit](https://mixkit.co) - Mixkit Art is a curated gallery of beautiful art and illustration, made by some of the world’s most talented creators, it’s all completely free to use commercially.
+- [Mixkit](https://mixkit.co/art) - Mixkit Art is a curated gallery of beautiful art and illustration, made by some of the world’s most talented creators, it’s all completely free to use commercially.
+
 
 ### Emojis
 
@@ -70,7 +72,7 @@
 
 ### Stock Video
 
-- [Mixkit](https://mixkit.co) - HD videos for you to use, completely free of charge.
+- [Mixkit](https://mixkit.co/videos) - HD videos for you to use, completely free of charge.
 - [Pexel Videos](https://www.pexels.com/videos) - The best free stock videos shared by the Pexels community.
 
 
@@ -78,6 +80,7 @@
 - [Pexels](https://www.pexels.com/) - Collections of High Definiton stock images an some videos shared by talented creators
 - [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock images and videos shared by our talented community
 - [Unsplash](https://unsplash.com) - Beautiful Free Images & Pictures; royalty free - oh, you just have to credit the creator
+- [Burst by Shopify](https://burst.shopify.com/) - Browse thousands of beautiful copyright-free images. All our pictures are free to download for personal and commercial use, no attribution required.
 
 ### Design Systems
 - [Material Design](https://material.io/) -  A design language that Google developed in 2014
