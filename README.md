@@ -51,6 +51,7 @@
 - [IRA Design](https://www.creative-tim.com/ira-design) - Build your own amazing illustrations
 - [DrawKit](https://www.drawkit.io) - MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!
 - [Mixkit](https://mixkit.co/art) - Mixkit Art is a curated gallery of beautiful art and illustration, made by some of the world’s most talented creators, it’s all completely free to use commercially.
+- [Lotties Files](https://lottiefiles.com/) - LottieFiles is a library for Adobe After Effects animations that can be used with [AirBnB's Lottie Library](http://airbnb.io/lottie/#/). There is a selection of free animations and then a marketplace for animations on sale.
 
 
 ### Emojis
