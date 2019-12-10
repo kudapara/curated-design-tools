@@ -5,6 +5,7 @@
 
 - [Adobe XD](https://www.adobe.com/products/xd.html) - Wireframe, design, prototype, present, and share amazing experiences for web, mobile, voice, and more.
 - [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish.
+- [Sketch](https://www.sketch.com/) -  A digital design toolkit that helps you work and collaborate faster in design, wireframing and prototyping projects.
 
 
 ### Design tools
@@ -68,6 +69,7 @@
 - [Zondicons](https://www.zondicons.com) - A set of free premium SVG icons for you to use on your digital products.
 - [Icomoon](https://icomoon.io) - WebApp that lets you create your own package of icons from different sources there are both paid and free sources
 - [Material icons](https://material.io/tools/icons) - Material icons are delightful, beautifully crafted symbols for common actions and items
+- [Flaticon](https://www.flaticon.com/home) - A repostitory of scalable vector icons and icon packs. The site gives you the ability to search for related icons to a selected icon/asset.
 
 ### Font Icons
 
