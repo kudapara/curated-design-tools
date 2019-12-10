@@ -53,6 +53,11 @@
 - [Mixkit](https://mixkit.co/art) - Mixkit Art is a curated gallery of beautiful art and illustration, made by some of the world’s most talented creators, it’s all completely free to use commercially.
 
 
+### Animations
+
+- [Lotties Files](https://lottiefiles.com/) - LottieFiles is a library for Adobe After Effects animations that can be used with [AirBnB's Lottie Library](http://airbnb.io/lottie/#/). There is a selection of free animations and then a marketplace for animations on sale.
+
+
 ### Emojis
 
 - [Emojipedia 😊](https://emojipedia.org/) If you need some emojis to add to your UI. You can search them from here and copy paste them that easy 👍🏽
