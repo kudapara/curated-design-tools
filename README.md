@@ -42,7 +42,7 @@
 - [Lapa Ninja](https://www.lapa.ninja) - The best landing page design inspiration from around the web. The contents are selected from the best designs, and daily updated.
 - [Codrops](https://tympanus.net/codrops/) - Resource and Inspiration for creative minds, ranging from tutorials on new and experimental concepts, source, icons and tutorials.
 - [Land Book](https://land-book.com/) - Design gallery with the best and most carefully collected websites. We help creatives find inspiration & motivation to do rad stuff.
-
+- [Nicelydone](https://nicelydone.club/) - Nicely done is a place for User interface inspiration. A tool made by a designer for designers.
 
 ### Illustrations
 
