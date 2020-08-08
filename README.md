@@ -71,6 +71,8 @@
 - [Icomoon](https://icomoon.io) - WebApp that lets you create your own package of icons from different sources there are both paid and free sources
 - [Material icons](https://material.io/tools/icons) - Material icons are delightful, beautifully crafted symbols for common actions and items
 - [Flaticon](https://www.flaticon.com/home) - A repostitory of scalable vector icons and icon packs. The site gives you the ability to search for related icons to a selected icon/asset.
+- [Basicons](https://basicons.xyz/) - Basic icons for product design & development. Designed with care & precision. Updated & refined weekly.
+- [Heroicons](https://heroicons.dev) - Free, open source icons from the creators of Tailwind CSS.
 
 ### Font Icons
 
