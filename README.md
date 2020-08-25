@@ -74,6 +74,19 @@
 - [Basicons](https://basicons.xyz/) - Basic icons for product design & development. Designed with care & precision. Updated & refined weekly.
 - [Heroicons](https://heroicons.dev) - Free, open source icons from the creators of Tailwind CSS.
 
+### Typography
+
+- [Fontpair](https://fontpair.co) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
+- [Fontpairingsbypeople](https://fontpairings.bypeople.com/) - Check typefaces and font pairings with this interactive tool.
+- [Type-scale](https://type-scale.com) - Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts.
+- [Archetype](https://archetypeapp.com) - Archetype lets designers like you very quickly and easily create consistent typography styling and spacing live, in the browser.
+
+### Fonts
+
+- [Google Fonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography.
+- [Open Foundry](https://open-foundry.com/fonts) - A new platform for open-source fonts in a noise-free environment, to highlight their beauty, extend functionality and encourage further exploration.
+- [Open-Source Types](https://www.are.na/frederic-brodbeck/open-source-typefaces) - Various sources for open license fonts, which means free for personal and commercial use.
+
 ### Font Icons
 
 - [Font Awesome](https://fontawesome.com) -  Get vector icons and social logos on your website with Font Awesome
