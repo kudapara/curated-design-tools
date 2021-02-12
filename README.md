@@ -63,6 +63,7 @@
 - [Codrops](https://tympanus.net/codrops/) - Resource and Inspiration for creative minds, ranging from tutorials on new and experimental concepts, source, icons and tutorials.
 - [Land Book](https://land-book.com/) - Design gallery with the best and most carefully collected websites. We help creatives find inspiration & motivation to do rad stuff.
 - [Nicelydone](https://nicelydone.club/) - Nicely done is a place for User interface inspiration. A tool made by a designer for designers.
+- [Awwwards](https://awwwards.com) - The awards of design, creativity and innovation on the internet.
 
 ## Illustrations
 
