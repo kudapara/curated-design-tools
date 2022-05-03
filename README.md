@@ -4,21 +4,23 @@
 
 ## Contents
 
-- [Design Applications](#design-applications)
-- [Design tools](#design-tools)
-- [Patterns & backgrounds](#patterns--backgrounds)
-- [Design Inspiration](#design-inspiration)
-- [Illustrations](#illustrations)
-- [Animations](#animations)
-- [Emojis](#emojis)
-- [Svg Icons](#svg-icons)
-- [Typography](#typography)
-- [Fonts](#fonts)
-- [Font Icons](#font-icons)
-- [Stock Video](#stock-video)
-- [Stock Photos](#stock-photos)
-- [Design Systems](#design-systems)
-- [Contribute](#contribute)
+- [Curated Design Tools ![Awesome](https://awesome.re)](#curated-design-tools-)
+  - [Contents](#contents)
+  - [Design Applications](#design-applications)
+  - [Design tools](#design-tools)
+  - [Patterns & backgrounds](#patterns--backgrounds)
+  - [Design Inspiration](#design-inspiration)
+  - [Illustrations](#illustrations)
+  - [Animations](#animations)
+  - [Emojis](#emojis)
+  - [Svg Icons](#svg-icons)
+  - [Typography](#typography)
+  - [Fonts](#fonts)
+  - [Font Icons](#font-icons)
+  - [Stock Video](#stock-video)
+  - [Stock Photos](#stock-photos)
+  - [Design Systems](#design-systems)
+  - [Contribute](#contribute)
 
 ## Design Applications
 
@@ -36,7 +38,6 @@
 - [Metatags](https://metatags.io) - Edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 - [Css filters](https://www.cssfilters.co) - Visual playground for generating CSS for custom and Instagram like photo filters.
 
-
 ## Patterns & backgrounds
 
 - [Cool Backgrounds](https://coolbackgrounds.io) - Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites, or as desktop and phone wallpapers.
@@ -47,7 +48,7 @@
 - [Css Gradient](https://cssgradient.io) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
 - [Patterninja](https://patterninja.com) - Combine images to create patterns that can be downloaded in high resolution and used for printing and the web.
 - [uiGradient](https://uigradients.com) - This website has a bunch of gradient suggestions. You can get the CSS code or get inspiration of various colour combinations for gradients.
-
+- [Colordesigner](https://colordesigner.io/) - he main purpose of this tool is to help with building a color palette and generate tints and shades based on it. Just pick a color, and the app does the rest.
 
 ## Design Inspiration
 
@@ -74,16 +75,13 @@
 - [DrawKit](https://www.drawkit.io) - MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!
 - [Mixkit](https://mixkit.co/art) - Mixkit Art is a curated gallery of beautiful art and illustration, made by some of the world’s most talented creators, it’s all completely free to use commercially.
 
-
 ## Animations
 
 - [Lotties Files](https://lottiefiles.com/) - LottieFiles is a library for Adobe After Effects animations that can be used with [AirBnB's Lottie Library](http://airbnb.io/lottie/#/). There is a selection of free animations and then a marketplace for animations on sale.
 
-
 ## Emojis
 
 - [Emojipedia 😊](https://emojipedia.org/) - If you need some emojis to add to your UI. You can search them from here and copy paste them that easy 👍🏽.
-
 
 ## Svg Icons
 
@@ -116,14 +114,15 @@
 - [Mixkit](https://mixkit.co/videos) - HD videos for you to use, completely free of charge.
 - [Pexel Videos](https://www.pexels.com/videos) - The best free stock videos shared by the Pexels community.
 
-
 ## Stock Photos
+
 - [Pexels](https://www.pexels.com/) - Collections of High Definiton stock images an some videos shared by talented creators.
 - [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock images and videos shared by our talented community.
 - [Unsplash](https://unsplash.com) - Beautiful Free Images & Pictures; royalty free - oh, you just have to credit the creator.
 - [Burst by Shopify](https://burst.shopify.com/) - Browse thousands of beautiful copyright-free images. All our pictures are free to download for personal and commercial use, no attribution required.
 
 ## Design Systems
+
 - [Material Design](https://material.io/) -  A design language that Google developed in 2014.
 - [Fluent Design System](https://www.microsoft.com/design/fluent/) -  A design system developed in 2017 by Microsoft as a revamp of Microsoft Design Language 2.
 - [Design Systems Repo](https://designsystemsrepo.com/) - Design Systems Gallery; A comprehensive and curated list of design systems, style guides and pattern libraries that you can use for inspiration.
