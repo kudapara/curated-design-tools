@@ -37,6 +37,8 @@
 - [Coolors](https://coolors.co) - Generate perfect color combinations for your designs.
 - [Metatags](https://metatags.io) - Edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 - [Css filters](https://www.cssfilters.co) - Visual playground for generating CSS for custom and Instagram like photo filters.
+- [CSS Gradient Editor](https://www.cssgradienteditor.com) - You may only need this tool for creating CSS gradient backgrounds and patterns.
+- [Pigment](https://pigment.shapefactory.co) - A unique way to generate fresh and vibrant colors based on lighting and pigment, instead of math.
 
 ## Patterns & backgrounds
 
@@ -48,7 +50,8 @@
 - [Css Gradient](https://cssgradient.io) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
 - [Patterninja](https://patterninja.com) - Combine images to create patterns that can be downloaded in high resolution and used for printing and the web.
 - [uiGradient](https://uigradients.com) - This website has a bunch of gradient suggestions. You can get the CSS code or get inspiration of various colour combinations for gradients.
-- [Colordesigner](https://colordesigner.io/) - he main purpose of this tool is to help with building a color palette and generate tints and shades based on it. Just pick a color, and the app does the rest.
+- [Colordesigner](https://colordesigner.io/) - the main purpose of this tool is to help with building a color palette and generate tints and shades based on it. Just pick a color, and the app does the rest.
+
 
 ## Design Inspiration
 
