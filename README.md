@@ -51,7 +51,7 @@
 - [Patterninja](https://patterninja.com) - Combine images to create patterns that can be downloaded in high resolution and used for printing and the web.
 - [uiGradient](https://uigradients.com) - This website has a bunch of gradient suggestions. You can get the CSS code or get inspiration of various colour combinations for gradients.
 - [Colordesigner](https://colordesigner.io/) - the main purpose of this tool is to help with building a color palette and generate tints and shades based on it. Just pick a color, and the app does the rest.
-
+- [Adobe Color](https://color.adobe.com/) - Adobe Color is a web app and creative community where you can create and share color themes and inspiration. You can also create new colour palettes and themes, extract a colour theme from an image, normalize colour contrasts as well as convert colours to different colour models, maintaining brightness and colour accuracy.
 
 ## Design Inspiration
 
