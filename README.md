@@ -29,6 +29,7 @@
 - [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish.
 - [Sketch](https://www.sketch.com/) -  A digital design toolkit that helps you work and collaborate faster in design, wireframing and prototyping projects.
 - [Lunacy](https://icons8.com/lunacy) - Free of charge Windows graphic design app that works offline and offers all the power of Sketch (inlcuding reading sketch files).
+- [Visily](https://www.visily.ai/) - Similar to Figma and Sketch, but vastly easier to use. Enable non-designers such as founders, product managers, buiness analysts, and developers to create beautiful wireframes and mockups with little effort.
 
 ## Design tools
 
