@@ -100,6 +100,7 @@
 ## Typography
 
 - [Fontpair](https://fontpair.co) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
+- [FontsWiki](https://fontswiki.com/) - Searchable font catalog with free alternatives, pairings, and real-world fonts-in-use references.
 - [Fontpairingsbypeople](https://fontpairings.bypeople.com/) - Check typefaces and font pairings with this interactive tool.
 - [Type-scale](https://type-scale.com) - Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts.
 - [Archetype](https://archetypeapp.com) - Archetype lets designers like you very quickly and easily create consistent typography styling and spacing live, in the browser.
