@@ -40,6 +40,7 @@
 - [Css filters](https://www.cssfilters.co) - Visual playground for generating CSS for custom and Instagram like photo filters.
 - [CSS Gradient Editor](https://www.cssgradienteditor.com) - You may only need this tool for creating CSS gradient backgrounds and patterns.
 - [Pigment](https://pigment.shapefactory.co) - A unique way to generate fresh and vibrant colors based on lighting and pigment, instead of math.
+- [Sez](https://sez.c-sharptutorial.com/) - Generate, preview, and apply color palettes to HTML website themes.
 
 ## Patterns & backgrounds
 
