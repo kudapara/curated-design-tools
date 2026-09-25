@@ -31,6 +31,8 @@
 - [Lunacy](https://icons8.com/lunacy) - Free of charge Windows graphic design app that works offline and offers all the power of Sketch (inlcuding reading sketch files).
 - [Visily](https://www.visily.ai/) - Similar to Figma and Sketch, but vastly easier to use. Enable non-designers such as founders, product managers, buiness analysts, and developers to create beautiful wireframes and mockups with little effort.
 
+- [Drawbly](https://drawbly.com/) - Browser canvas for rough diagrams and low-fidelity ideas with editable text, local drafts, and free credited PNG export.
+
 ## Design tools
 
 - [Grabient](https://grabient.com) - Beautiful and simple UI for generating web gradients.
