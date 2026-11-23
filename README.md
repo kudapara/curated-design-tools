@@ -38,6 +38,7 @@
 - [Coolors](https://coolors.co) - Generate perfect color combinations for your designs.
 - [Metatags](https://metatags.io) - Edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 - [Css filters](https://www.cssfilters.co) - Visual playground for generating CSS for custom and Instagram like photo filters.
+- [PixelArtHive](https://pixelarthive.com/) - Free browser-based image-to-pixel-art conversion and pixel art upscaling, with images processed locally.
 - [CSS Gradient Editor](https://www.cssgradienteditor.com) - You may only need this tool for creating CSS gradient backgrounds and patterns.
 - [Pigment](https://pigment.shapefactory.co) - A unique way to generate fresh and vibrant colors based on lighting and pigment, instead of math.
 
